@@ -1,2 +1,5 @@
 # prgov-website-issues
-Report issues in pr's gov websites
+
+## TL;DR Report issues in Puerto Rico's government websites. 
+
+
